@@ -2691,11 +2691,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Pasantia/EFGetStarted/EFGetStarted.csproj",
+      "projectUniqueName": "/workspaces/Pasantia/1erProyecto/EFGetStarted.csproj",
       "projectName": "EFGetStarted",
-      "projectPath": "/workspaces/Pasantia/EFGetStarted/EFGetStarted.csproj",
+      "projectPath": "/workspaces/Pasantia/1erProyecto/EFGetStarted.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/Pasantia/EFGetStarted/obj/",
+      "outputPath": "/workspaces/Pasantia/1erProyecto/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
